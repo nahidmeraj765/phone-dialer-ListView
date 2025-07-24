@@ -17,7 +17,7 @@ class Home extends StatelessWidget {
           return Card(
             child: ListTile(
               leading: Icon(Icons.phone),
-              trailing: Icon(Icons.delete), color: Colors.red,
+              trailing: Icon(Icons.delete, color: Colors.red),
               title: Text("Nahid"),
               subtitle: Text("01234567890"),
             ),
