@@ -27,3 +27,6 @@ class Home extends StatelessWidget {
     );
   }
 }
+
+// navigation
+// navigator.push(context, MaterialPageRoute(builder: (context) => LogIn()))
